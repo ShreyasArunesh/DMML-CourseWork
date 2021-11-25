@@ -1,5 +1,9 @@
 #                                               SIIM-FISABIO-RSNA COVID-19 Detection
 
+The dataset can be downloaded from Kaggle in the link bellow:
+
+https://www.kaggle.com/c/siim-covid19-detection/overview
+
 
 Five times more deadly than the flu, COVID-19 causes significant morbidity and mortality. Like other pneumonias, pulmonary infection with COVID-19 results in inflammation and fluid in the lungs. COVID-19 looks very similar to other viral and bacterial pneumonias on chest radiographs, which makes it difficult to diagnose. 
 As the leading healthcare organization in their field, the Society for Imaging Informatics in Medicine (SIIM)'s mission is to advance medical imaging informatics through education, research, and innovation. 
